@@ -1,3 +1,4 @@
 
 My name is chien
-to day is friday
+today is friday
+fix now today is monday
